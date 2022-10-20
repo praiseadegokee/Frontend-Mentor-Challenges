@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://warm-sunburst-3ebfaa.netlify.app/]
 
 ## My process
 
@@ -47,8 +47,8 @@ Users should be able to:
 ## Author
 
 - Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - https://www.frontendmentor.io/profile/praiseadegokee
-- Twitter - https://twitter.com/AdegokePraise
+- Frontend Mentor - [https://www.frontendmentor.io/profile/praiseadegokee]
+- Twitter - [https://twitter.com/AdegokePraise]
 
 ## Acknowledgments
-I'll like to appreciate Mr Coder (https://www.youtube.com/c/MrCoderYt)
+I'll like to appreciate <a href="https://www.youtube.com/c/MrCoderYt">Mr Coder</a>
